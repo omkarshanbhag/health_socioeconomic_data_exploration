@@ -1,0 +1,2 @@
+# Data Exploration - Health and Socioeconomic status
+This project uses jupyter notebooks and data science techniques to analyze interesting correlation found between different data sheets in a Food Atlas dataset. The main datasets analyzed were the socioeconomic backgrounds of all counties as well as the general health statistics. There was a specific correlation between adult obesity/diabetes rates and low socioeconomic backgrounds.
